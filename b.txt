@@ -1,3 +1,4 @@
 Dodalem nowa rzecz
 Jeszcze jedna 
 Jeszcze trzecia rzecz
+Witam z brancha feature/changes
